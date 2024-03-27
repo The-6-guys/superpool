@@ -1,0 +1,13 @@
+{
+  "bottomBarScreen": "bottomBar_screen",
+  "bottomBarScreenRequestData": "bottomBar_screen_request_data",
+  "bottomBarScreenChangesFromFrontend": "bottomBar_screen_changes_from_frontend",
+
+  "productionScreen": "production_screen",
+  "productionScreenRequestData": "production_screen_request_data",
+  "productionScreenChangesFromFrontend": "production_screen_changes_from_frontend",
+
+  "robotScreen": "robot_screen",
+  "robotScreenRequestData": "robot_screen_request_data",
+  "robotScreenChangesFromFrontend": "robot_screen_changes_from_frontend"
+}
