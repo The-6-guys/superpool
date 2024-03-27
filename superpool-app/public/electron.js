@@ -55,8 +55,8 @@ function createWindow() {
     win.webContents.openDevTools({ mode: "detach" });
   }
 
-  mainWindow.on("closed", () => {
-    mainWindow = null;
+  win.on("closed", () => {
+    win = null;
   });
 }
 
